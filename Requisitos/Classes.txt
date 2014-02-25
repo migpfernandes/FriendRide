@@ -1,0 +1,18 @@
+Utilizador
+- ID
+- Nome
+- Password
+
+Viagem
+- ID
+- Data
+- CondutorID
+- Ocupantes
+- Origem
+- Destino
+
+Pagamento
+- ID
+- De
+- Para
+- Valor

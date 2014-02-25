@@ -1,0 +1,23 @@
+Entidades:
+- Utilizador
+- Viagem
+- Pagamento
+
+Funcionalidades:
+- Adicionar viagens
+- Definir condutor e utilizadores nessa viagem
+- Definir valor da viagem
+- Adicionar liquidações realizadas
+- Extrair conta corrente
+
+Funcionamento:
+- Visualizar num calendario viagens marcadas
+- Área para adicionar pagamentos
+- Área para consulta de conta corrente
+
+Extras:
+- Login por facebook
+- Alertas no facebook com novidades
+- Marcação dos trajetos recorrendo ao Google Maps
+- Cálculo do valor da viagem
+
