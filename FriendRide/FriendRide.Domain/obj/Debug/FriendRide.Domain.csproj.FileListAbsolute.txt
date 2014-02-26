@@ -7,3 +7,4 @@ C:\Projetos\FriendRide\FriendRide\FriendRide.Domain\bin\Debug\EntityFramework.xm
 C:\Projetos\FriendRide\FriendRide\FriendRide.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Projetos\FriendRide\FriendRide\FriendRide.Domain\obj\Debug\FriendRide.Domain.dll
 C:\Projetos\FriendRide\FriendRide\FriendRide.Domain\obj\Debug\FriendRide.Domain.pdb
+C:\Projetos\FriendRide\FriendRide\FriendRide.Domain\obj\Debug\FriendRide.Domain.csprojResolveAssemblyReference.cache

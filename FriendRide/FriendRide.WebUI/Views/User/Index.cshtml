@@ -1,0 +1,22 @@
+﻿@using FriendRide.Domain.Models
+@model List<User>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @foreach (User u in Model) { 
+            <h1>@u.Name</h1>
+        }
+    </div>
+</body>
+</html>

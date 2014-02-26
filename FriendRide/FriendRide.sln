@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendRide.WebUI", "FriendRide\FriendRide.WebUI.csproj", "{9F120A81-C407-4B29-9F10-7EA1965534D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendRide.WebUI", "FriendRide.WebUI\FriendRide.WebUI.csproj", "{9F120A81-C407-4B29-9F10-7EA1965534D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendRide.Domain", "FriendRide.Domain\FriendRide.Domain.csproj", "{6194D9AF-EF8E-47A0-882E-AA48C1F98BCC}"
 EndProject
