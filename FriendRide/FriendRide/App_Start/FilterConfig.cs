@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace FriendRide
+namespace FriendRide.WebUI
 {
     public class FilterConfig
     {
